@@ -1,0 +1,4 @@
+com/projectcaas/todo/model/TodoItem.class
+com/projectcaas/todo/controller/TodoItemController.class
+com/projectcaas/todo/repository/TodoItemRepository.class
+com/projectcaas/todo/TodoApplication.class

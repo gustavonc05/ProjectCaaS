@@ -3,7 +3,7 @@ services:
     build: ./backend
     container_name: todo-backend
     ports:
-      - "3000:3000"
+      - "25000:25000"
     restart: unless-stopped
 
   frontend:
